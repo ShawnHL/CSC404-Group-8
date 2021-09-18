@@ -1,0 +1,19 @@
+Audio description:
+The format of filename is like:
+"ObjectName_SubdividedName.mp3"
+Example:
+Car_HornShort1.mp3
+Car_HornLong1.mp3
+SF for some sound effect that I haven't organized.
+I have both mp3 and WAV files, if you need another version, just let me know.
+
+Le
+
+Audio List:
+Car_DriveBy
+Car_HornShort1
+Player_Running1
+Player_Running2
+Player_Walk
+SF_CashRegister
+SF_TimerTicking
